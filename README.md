@@ -1,6 +1,6 @@
-<h1 align="left">Hello! I'm Bahadır</h1>
+<h1 align="center">Hello! I'm Bahadır</h1>
 
-<!--<img align="center"  alt="guy"  height="200px" alt="guy" width="300" src="https://media.giphy.com/media/l3q2XyZgnd2qzwx6o/giphy.gif" /> -->
+
 
 ## 👋‍ Who am I?
 

@@ -27,6 +27,6 @@
 
 
 <p align="center">
-<a href="https://github.com/BahadirKayis/github-readme-stats"><img height="165em" alt="Bahadir's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=BahadirKayis&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> <img height="165em"  alt="Bahadir's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahadirKayis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&&hide=html,css,javascript" /></a>
+<a href="https://github.com/BahadirKayis/github-readme-stats"><img height="165em" alt="Bahadir's Github Stats" align="center" src="https://github-readme-stats-bahadirkayis.vercel.app/api?username=BahadirKayis&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> <img height="165em"  alt="Bahadir's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahadirKayis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&&hide=html,css,javascript" /></a>
 </p>
 

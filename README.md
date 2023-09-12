@@ -1,27 +1,39 @@
-<h1 align="center">Hello! I'm Bahadır</h1>
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+<br> 
+<br> 
+
+<p align="center">  I am a Native Android Developer, developing projects to learn new things and share what I learn. If you have any questions or something I can help you with, contact me.</p>
+
+<br> 
+<br> 
+<h2 align="left"> ☎ Contact me here </h2>
+<a href="https://www.linkedin.com/in/bahadır-kayış-b27573228/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@bahadir.kayis24"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.instagram.com/bahadirkayiss/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:bahadir.kayis2409@gmail.com"><img src="https://img.shields.io/badge/GMAIL-4285f4.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ 
+<br> 
+<br> 
+<br> 
+
+<h2 align="left">🛠 Languages and Tools</h2>
+
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-gray?style=flat-square&logo=java)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Jira](https://img.shields.io/badge/-jira-blue?style=flat-square&logo=jira)
+![Slack](https://img.shields.io/badge/-Slack-red?style=flat-square&logo=slack)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=white)
+<br> 
+<br> 
+<br> 
 
 
 
-## 👋‍ Who am I?
-
-- I’m working as an Android Developer at LiwaSoft.
-- If I need an API for my projects,I can write one.
-- It is my pleasure to assist,to work together to achieve a goal.
-- Feel free to contact me if you have any questions about these topics.
-
-<h2 align="left">Languages and Tools I Use</h2>
-
-| Android | Kotlin | Java | Firebase | C# | 
-| :-: | :-: | :-: | :-: | :-: | 
-|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>|
-
-
-## Connect with me
-<p align="left">
-	<a href="mailto:bahadir.kayis2409@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/bahadir-kayis-b27573228/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/bahadirkayiss/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
-</p>
 
 
 
